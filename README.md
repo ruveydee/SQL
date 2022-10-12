@@ -27,5 +27,9 @@ Assignment: 1
 1Assignment: 1
 
  Indexes
+ Medium Makale 
+<a href="https://berkemrecabuk.medium.com/execution-plan-nas%C4%B1l-i%CC%87ncelenmelidir-part-1-70f30be0f88d"></a>
+<a href="https://berkemrecabuk.medium.com/execution-plan-nas%C4%B1l-i%CC%87ncelenmelidir-part-2-b475c35fcfe9"></a>
+<a href="https://berkemrecabuk.medium.com/execution-plan-nasil-incelenmelidir-part-3-e2a1a38fb285"></a>
  
  DB Connection with Python
